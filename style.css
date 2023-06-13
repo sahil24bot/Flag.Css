@@ -1,0 +1,32 @@
+.flag {
+    background-color: #006a4e;
+    height : 800px; 
+    width: 900px;
+    position: relative;
+    left: 350px;
+  }
+  
+
+
+  .flag > div {
+    height: 475.73px;
+    width: 475.73px;
+    border-radius: 50%;
+    background-color: #f42a41;
+    position: absolute;
+    top: 10%;
+    left: 150px;
+    
+  }
+
+  p{
+    font-size: 5rem;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .flag > div > div > p{
+    color: black;
+  }
